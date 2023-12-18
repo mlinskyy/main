@@ -1,0 +1,2 @@
+# main
+zadania z pythona
